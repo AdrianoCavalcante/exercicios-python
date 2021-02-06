@@ -1,0 +1,5 @@
+n = int(input('Digite um numero para saber sua tabuada: '))
+print('='*15)
+print(f' {n} x  1 = {n*1:4} \n {n} x  2 = {n*2:4} \n {n} x  3 = {n*3:4} \n {n} x  4 = {n*4:4} \n {n} x  5 = {n*5:4}')
+print(f' {n} x  6 = {n*6:4} \n {n} x  7 = {n*7:4} \n {n} x  8 = {n*8:4} \n {n} x  9 = {n*9:4} \n {n} x 10 = {n*10:4}')
+print('='*15)

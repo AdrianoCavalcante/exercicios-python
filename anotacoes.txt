@@ -1,0 +1,15 @@
+tipos primitivos: str = string, int = inteiro, float = numeros reais e bool = valores logicos
+
++ soma
+- subtração
+* multiplicação
+/ divisão
+** potenciação
+// divusão inteira
+% resto da divião
+== igual
+
+para mudar de linha usar ""\n"" no local onde se deseja realizar a quebra
+para tirar uma quebra de linha entre 2 print usar "", end=' '"" no final do print ainda dentro dos parenteses.
+pode ainda digitar algo entre as aspas para ser printado no local onde seria a quebra.
+
